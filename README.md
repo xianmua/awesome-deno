@@ -25,9 +25,11 @@ node 和 deno
 - [react-native-game-engine]()
 - [matter-js]() - 2D的物理引擎
 
+
 ### 爬虫
 - [node-crawler](https://node-crawler.readthedocs.io/zh_CN/latest/) - 爬虫框架
-- []()
+- [selenium-webdriver](https://github.com/SeleniumHQ/selenium/tree/trunk/javascript/node/selenium-webdriver#readme) - Selenium 是一个浏览器自动化库。Selenium 最常用于测试 Web 应用程序，可用于任何需要与浏览器自动交互的任务。
+
 
 ### 桌面开发
 - [Electron](https://www.electronjs.org/zh/docs/latest/) - 桌面开发
@@ -36,7 +38,12 @@ node 和 deno
 ### 邮件
 - [deno-smtp](https://github.com/manyuanrong/deno-smtp)
 
+
 ### 代理
 - [nohost](https://github.com/Tencent/nohost)
 - [Whistle](https://github.com/avwo/whistle)
+
+
+### 监控
+- [sentry](https://sentry.io/welcome/) - 哨兵
 
