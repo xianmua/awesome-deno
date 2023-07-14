@@ -3,10 +3,11 @@ node 和 deno
 ### 打包编译
 - [esbuild](https://esbuild.docschina.org/) - ES编译.
 
-
-### 守卫进程
+### 系统相关
+- [CronJob]() - 定时任务
 - [pm2](https://pm2.keymetrics.io/docs/usage/quick-start/) - 守护进程管理器
 - [nohup](https://www.runoob.com/linux/linux-comm-nohup.html) - 守卫进程
+
 
 
 ### 服务器
