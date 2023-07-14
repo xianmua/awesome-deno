@@ -1,20 +1,24 @@
 node 和 deno
 
-### 常用的
-- [nohup](https://www.runoob.com/linux/linux-comm-nohup.html) - 守卫进程
+### 打包编译
+- [esbuild](https://esbuild.docschina.org/) - ES编译.
+
+
+### 守卫进程
 - [pm2](https://pm2.keymetrics.io/docs/usage/quick-start/) - 守护进程管理器
-- [esbuild](https://esbuild.docschina.org/) - ES编译
+- [nohup](https://www.runoob.com/linux/linux-comm-nohup.html) - 守卫进程
+
 
 ### 服务器
 - [express](http://nodejs.cn/express/) - express
+- [oak](https://github.com/oakserver/oak) - 服务器框架框架且包含路由器，适用【deno】
 - [koa](https://chenshenhai.github.io/koa2-note/note/start/quick.html) - 服务器开发框架
-- [oak](https://github.com/oakserver/oak) - 服务器框架框架且包含路由器，适用于 deno.
+
 
 ### 数据库/ORM
-- [cotton](https://deno.land/x/cotton@v0.7.5) - 用于 SQL 数据库工具包，适用 deno. ⭐️⭐️⭐️
+- [cotton](https://deno.land/x/cotton@v0.7.5) - 支持MySQL、SQLite和PostgreSQL, 适用【deno】.
 - [redis](https://github.com/denodrivers/redis) - redis
-- [TypeORM](https://typeorm.bootcss.com/) -
-- [Sequelize](https://www.sequelize.cn/) - 
+
 
 ### 游戏
 - [three.js]()
@@ -28,6 +32,9 @@ node 和 deno
 ### 桌面开发
 - [Electron](https://www.electronjs.org/zh/docs/latest/) - 桌面开发
 
+
+### 邮件
+- [deno-smtp](https://github.com/manyuanrong/deno-smtp)
 
 ### 代理
 - [nohost](https://github.com/Tencent/nohost)
